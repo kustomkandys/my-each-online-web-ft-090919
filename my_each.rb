@@ -1,5 +1,3 @@
 def my_each(words)
-  while do |word|
-    puts word
-  end
-end
+  i = 0 
+  while 
